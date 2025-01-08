@@ -8,7 +8,7 @@ This Plugin enables to dynamically change the system bar colors (status bar and 
 
 ## Installation
 Steps:
-- download latest release from Github [releases](https://github.com/syntaxerror247/godot-android-system-bar-color-changer/releases)
+- download latest release from Github [releases](https://github.com/syntaxerror247/godot-android-system-bar-color-changer/releases).
 - unzip the release archive.
 - copy addon to your Godot project's root directory.
 - enable the plugin via the `Plugins` tab of `Project->Project Settings...` menu, in the Godot Editor.
@@ -19,7 +19,7 @@ Steps:
 
 2. Turn off immersive_mode in Android exprot settings (to make system bar visible).
 
-3. Add `SystemBarColorChanger` node to your scene and reference it in a variable, e.g. SystemBarColorChanger.
+3. Add `SystemBarColorChanger` node to your scene and reference it in a variable named SystemBarColorChanger.
    - To change status bar color
    ```
      SystemBarColorChanger.set_status_bar_color(color)
