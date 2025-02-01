@@ -2,7 +2,7 @@
    <img width="200" src="plugin/demo/icon.png?raw=true" alt="plugin icon">
 </p>
 
-# Android System Bar Color Changer
+# Android System Bar Color Changer [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/syntaxerror247)
 
 This Plugin enables to dynamically change the system bar colors (status bar and navigation bar) of your godot android app.
 
